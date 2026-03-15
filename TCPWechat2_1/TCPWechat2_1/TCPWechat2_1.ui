@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UI version="4.0" >
+ <class>TCPWechat2_1Class</class>
+ <widget class="QWidget" name="TCPWechat2_1Class" >
+  <property name="objectName" >
+   <string notr="true">TCPWechat2_1Class</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>TCPWechat2_1</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="TCPWechat2_1.qrc"/>
+ </resources>
+ <connections/>
+</UI>
