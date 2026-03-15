@@ -21,14 +21,14 @@ This project implements a full-featured TCP-based chat system with a clean, intu
 
 ## How to Run
 
-First，you should have Qt 5.15 or later (compatible with Qt 6.x)
-1.Clone the repository
-2.Open the project in Qt Creator
-3.Select src/TCP-ChatRoom.pro (create this .pro file if missing—see template below)
-Configure build settings:
-Select your Qt version and compiler
-Set build directory (e.g., build/)
-4.Click "Build" to compile the project
+First,you should have Qt 5.15 or later (compatible with Qt 6.x)
+- 1.Clone the repository
+- 2.Open the project in Qt Creator
+- 3.Select src/TCP-ChatRoom.pro (create this .pro file if missing—see template below)
+-- Configure build settings:
+-- Select your Qt version and compiler
+-- Set build directory (e.g., build/)
+- 4.Click "Build" to compile the project
 
 ### Compile
 
