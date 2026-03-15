@@ -17,7 +17,7 @@ This project implements a full-featured TCP-based chat system with a clean, intu
 
 - C++
 - TCP Socket
-- Linux
+- Windows
 
 ## How to Run
 
